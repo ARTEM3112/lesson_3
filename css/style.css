@@ -1,4 +1,22 @@
+p{
+    color:darkgreen;
+}
 ul li{
-    color:red;
+    color:darkslateblue
 }
 
+
+header{
+    color: seagreen;
+}
+
+
+main{
+    color: teal;
+}
+
+
+
+footer{
+    color: orangered;
+}
