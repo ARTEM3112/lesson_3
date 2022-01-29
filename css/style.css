@@ -1,22 +1,19 @@
-p{
-    color:darkgreen;
-}
 ul li{
-    color:darkslateblue
-}
-
-
-header{
     color: seagreen;
 }
+p{
+    color: royalblue;
+}
 
+header{
+    color: steelblue;
+}
 
 main{
     color: teal;
 }
 
-
-
 footer{
-    color: orangereds;
+    color: rebeccapurple;
 }
+
